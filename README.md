@@ -1,4 +1,4 @@
-# Aplicativo de Calculo x Alcool
+# Aplicativo de Cálculo Gasolina x Álcool
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/alcool_gasolina/blob/master/LICENSE) 
 
 
