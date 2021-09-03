@@ -14,8 +14,7 @@ Nesse ap, basicamente você consegue saber qual é a melhor opção para o seu c
 
 
 # Tecnologias utilizadas
-## Back end
-- Dart
+
 ## Front end
 - Flutter
 
